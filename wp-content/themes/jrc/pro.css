@@ -1,0 +1,64 @@
+/*
+ * Courage Pro CSS
+ * http://themezee.com/themes/courage/#CouragePro-1
+ * Source: http://preview.themezee.com/courage/wp-content/plugins/courage-pro/css/courage-pro.css
+ *
+ * Copyright(C) 2015, ThemeZee.com - support@themezee.com
+ * License: GPL v3
+ * License URI: http://www.gnu.org/licenses/gpl-3.0.html
+ *
+ */
+ 
+/* Footer Widget Area
+-------------------------------------------------------------- */
+#footer-widgets-wrap {
+	background: #252525;
+}
+#footer-widgets {
+	border-top: 0.8em solid rgba(255,255,255,0.08);
+	padding: 1.5em 0 0 1.5em;
+}
+.footer-widget-column {
+	float: left;
+	display: inline-block;
+	width: 33%;
+	padding-right: 1.0em;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+#footer-widgets .widget {
+	border: 1px solid rgba(255,255,255,0.08);
+	color: #ccc;
+	margin-bottom: 1.5em;
+	background: none;
+}
+#footer-widgets .widgettitle {
+	background: rgba(255,255,255,0.04);
+	border: 1px solid rgba(255,255,255,0.08);
+	color: #fff;
+}
+#footer-widgets .widgettitle span {
+	font-size: 1.1em;
+}
+#footer-widgets .widget a:link, #footer-widgets .widget a:visited  {
+	color: #fff;
+}
+
+
+/*============================ MEDIA QUERIES ============================*/
+
+/* Smaller screens | <1120px */
+@media only screen and (max-width: 65em) {
+	.footer-widget-column {
+		width: 50%;
+	}
+}
+
+/* Phablets (portrait) | <640px */
+@media only screen and (max-width: 40em) {
+	.footer-widget-column {
+		float: none;
+		width: 100%;
+	}
+}

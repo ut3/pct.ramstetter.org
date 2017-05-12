@@ -1,0 +1,156 @@
+/*======================================
+Theme Name: courage-jrc
+Version: 1.05
+Author: jramstet
+Text Domain: courage
+Template: courage
+License: Proprietary
+======================================*/
+
+/*---------------------------------------------------*/
+/* Adsense. Mid content. Should always be roughly a horizontal banner. 
+ */
+#ggad1 { 
+	display:inline-block;
+	width: 95%;
+	max-height: 500px;
+	min-height: 100px;
+	margin: 0;
+	padding: 0;
+}
+
+
+/*---------------------------------------------------*/
+/* Adsense. Footer widget. Should always be roughly a square. 
+ */
+
+#ggad2 { 
+	display: block;
+	max-height: 400px;
+	
+}
+
+/*---------------------------------------------------*/
+/* Adsense. Right Nav widget, default is a scyscraper. 
+ * Use media query to make it change shapes. 
+ */
+#ggad3 {
+	margin: 0;
+	padding: 0;
+}
+
+@media only screen and (min-width: 60em) {
+	/* Make the ad a skyscraper, not a rectangle */
+	#ggad3 { 
+		min-width: 100px;
+		min-height: 500px;
+
+		max-width: 300px;
+		max-height: 800px;
+	}
+}
+
+@media only screen and (max-width: 60em) { 
+	/* Make the ad a rectangle, not a skyscraper */
+	#ggad3 { 
+		min-width: 100px;
+		min-height: 50px;
+		
+		max-width: 100%;
+		max-height: 300px;
+	}
+ }
+
+.nomargin {
+	margin: 0;
+}
+
+.adsbygoogle { 
+	display: block;
+	margin: 0 2em 0 2em;
+}
+
+html { margin-top: 10px; }
+
+div.postmeta span, div.postmeta span span {
+	display: inline-block;
+}
+
+.meta-linkedin:before { 
+	content: '\f207';
+}
+
+.meta-author-url:before {
+	content: '\f409';
+}
+
+.meta-print:before {
+	content: '\f469';
+}
+
+.meta-edit:before {
+	content: '\f411';
+}
+
+/* Wrap two columns in display: block
+ * Forces a line break after the two colums */
+.meta-prev-next {
+	display: block;
+	font-size: 1.2em;
+}
+
+/* Inline block, left */
+.meta-prev-next .meta-prev{
+	display: inline-block;
+} 
+.meta-prev-next .meta-prev:before {
+	content: '\f450';
+}
+
+/* Inline block, right */
+.meta-prev-next .meta-next{
+	display: inline-block;
+	float: right;
+} 
+.meta-prev-next .meta-next:before {
+	content: '\f451';
+}
+
+.fb_iframe_widget span {
+	overflow: visible ;
+	width: 450px ;
+} 
+.recentcomments a{display:inline ;padding:0 ;margin:0 ;}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Fjalla One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Fjalla One'), local('FjallaOne-Regular'), url(https://fonts.gstatic.com/s/fjallaone/v4/SHXJdWnWW6HDq-6DpcG8PyEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Fjalla One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Fjalla One'), local('FjallaOne-Regular'), url(https://fonts.gstatic.com/s/fjallaone/v4/rxxXUYj4oZ6Q5oDJFtEd6vk_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v11/UyBMtLsHKBKXelqf4x7VRQ.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v11/1YwB1sO8YE1Lyjf12WNiUA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
