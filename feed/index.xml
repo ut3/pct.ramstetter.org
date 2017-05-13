@@ -1,4 +1,4 @@
-3cd9
+3cd3
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -17,7 +17,7 @@
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.3</generator>
+	<generator>https://wordpress.org/?v=4.7.4</generator>
 	<item>
 		<title>Registrations and logins disabled, site moving to static content</title>
 		<link>/j/registrations-disabled/</link>
@@ -25,7 +25,7 @@
 		<dc:creator><![CDATA[Rick AKA Apollo]]></dc:creator>
 				<category><![CDATA[Journal]]></category>
 
-		<guid isPermaLink="false">/?p=1340</guid>
+		<guid isPermaLink="false">/j/registrations-disabled/</guid>
 		<description><![CDATA[Due to spam and hack attempts, new user registrations and all logins for this website are disabled. edit 3/14/2017: I have disabled all comments for the same reason. edit 5/11/2017: due to continued hack attempts, I am taking this dynamically generated WordPress installation offline. I will migrate all pages to static content and keep the public-facing website online.]]></description>
 				<content:encoded><![CDATA[<p>Due to spam and hack attempts, new user registrations and all logins for this website are disabled.</p>
 <p>edit 3/14/2017: I have disabled all comments for the same reason.</p>
@@ -41,7 +41,7 @@
 				<category><![CDATA[Journal]]></category>
 
 		<guid isPermaLink="false">https://pct.frakkinhikers.com/?p=1280</guid>
-		<description><![CDATA[More than one month after leaving the Pacific Crest Trail, we&#8217;re sitting down to recount our last few days in the backcountry during the 2015 season. &#8212; July 8 (continued) Start location: Bishop Pass Trailhead End location: ~1-2 miles west of Bishop Pass, on the Bishop Pass Trail Miles hiked: 6-7 miles (on the Bishop Pass Trail) &#160; Our last entry left off with [...]]]></description>
+		<description><![CDATA[More than one month after leaving the Pacific Crest Trail, we&#8217;re sitting down to recount our last few days in the backcountry during the 2015 season. &#8212; July 8 (continued) Start location: Bishop Pass Trailhead End location: ~1-2 miles west of Bishop Pass, on the Bishop Pass Trail Miles hiked: 6-7 miles (on the Bishop Pass Trail) &#160; Our last entry left off with]]></description>
 				<content:encoded><![CDATA[<p>More than one month after leaving the Pacific Crest Trail, we&#8217;re sitting down to recount our last few days in the backcountry during the 2015 season.</p>
 <p>&#8212;</p>
 <p>July 8 (continued)</p>
@@ -162,7 +162,7 @@
 <div id="attachment_1251" style="width: 310px" class="wp-caption aligncenter"><a href="/?attachment_id=1251" rel="attachment wp-att-1251"><img src="/wp-content/uploads/2015/07/DSCN6546-300x225.jpg" alt="east side of Bishop Pass" width="300" height="225" class="size-medium wp-image-1251" srcset="/wp-content/uploads/2015/07/DSCN6546-300x225.jpg 300w, /wp-content/uploads/2015/07/DSCN6546-1024x768.jpg 1024w, /wp-content/uploads/2015/07/DSCN6546.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">east side of Bishop Pass</p></div>
 <div id="attachment_1250" style="width: 310px" class="wp-caption aligncenter"><a href="/?attachment_id=1250" rel="attachment wp-att-1250"><img src="/wp-content/uploads/2015/07/DSCN6524-300x225.jpg" alt="Automated snow sensor near Bishop Pass" width="300" height="225" class="size-medium wp-image-1250" srcset="/wp-content/uploads/2015/07/DSCN6524-300x225.jpg 300w, /wp-content/uploads/2015/07/DSCN6524-1024x768.jpg 1024w, /wp-content/uploads/2015/07/DSCN6524.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Automated snow sensor near Bishop Pass</p></div>
 
-292f
+2923
 ]]></content:encoded>
 			<wfw:commentRss>/j/photos-kearsarge-pass-bishop-pass/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
@@ -176,7 +176,7 @@
 				<category><![CDATA[Journal]]></category>
 
 		<guid isPermaLink="false">https://pct.frakkinhikers.com/?p=1274</guid>
-		<description><![CDATA[We spent July 6-8 taking care of hiker errands and relaxing at the Creekside Inn, which is one of Bishop&#8217;s nicer hotel properties. Outside, the Creekside Inn has an actual creek running through the property, along with well-manicured green spaces, ample creek-side seating, and a nice pool and spa in a brick-lined courtyard. Inside, the rooms are exceptionally comfortable and [...]]]></description>
+		<description><![CDATA[We spent July 6-8 taking care of hiker errands and relaxing at the Creekside Inn, which is one of Bishop&#8217;s nicer hotel properties. Outside, the Creekside Inn has an actual creek running through the property, along with well-manicured green spaces, ample creek-side seating, and a nice pool and spa in a brick-lined courtyard. Inside, the rooms are exceptionally comfortable and]]></description>
 				<content:encoded><![CDATA[<p>We spent July 6-8 taking care of hiker errands and relaxing at the Creekside Inn, which is one of Bishop&#8217;s nicer hotel properties.</p>
 <p>Outside, the Creekside Inn has an actual creek running through the property, along with well-manicured green spaces, ample creek-side seating, and a nice pool and spa in a brick-lined courtyard. Inside, the rooms are exceptionally comfortable and modern, decorated in woodsy brown colors. The lobby has lots of leather armchairs and couches, as well as large, framed photographs of the Sierras in various seasons. The lobby also has a large dining area where they serve hot breakfast daily (at no additional cost). In the evenings, the Inn sets out trays of fresh cookies; lemonade, iced tea and coffee are available throughout the day. In other words, it was a huge upgrade from the EconoLodge, although it came with a correspondingly higher price. Oh well. Sometimes the luxury is worth it.</p>
 <p>Somehow, we racked up a big list of chores in the five days since we had last left Bishop: Rick had to replace his sleeping pad after one of the baffles failed (which has happened to him a few times in the last 1+ year of hiking). Erica had to order new shoes to replace the ripped up current pair. We needed to make changes to our upcoming maildrops. We needed to treat our clothes with permethrin in order to combat the onslaught of mosquitoes on the trail. And the list goes on&#8230;</p>
@@ -204,7 +204,7 @@
 				<category><![CDATA[Journal]]></category>
 
 		<guid isPermaLink="false">https://pct.frakkinhikers.com/?p=1214</guid>
-		<description><![CDATA[We hiked nearly 20 miles, our longest day in quite a while. Only the first ~8 miles were on the Pacific Crest Trail, however; we spent the rest of the day on the Bishop Pass Trail, heading back into town. &#8212; July 5th Start location: Mile 823.2, 37.05463, -118.51474 End location: Bishop, CA via the Bishop Pass Trail at PCT [...]]]></description>
+		<description><![CDATA[We hiked nearly 20 miles, our longest day in quite a while. Only the first ~8 miles were on the Pacific Crest Trail, however; we spent the rest of the day on the Bishop Pass Trail, heading back into town. &#8212; July 5th Start location: Mile 823.2, 37.05463, -118.51474 End location: Bishop, CA via the Bishop Pass Trail at PCT]]></description>
 				<content:encoded><![CDATA[<p>We hiked nearly 20 miles, our longest day in quite a while. Only the first ~8 miles were on the Pacific Crest Trail, however; we spent the rest of the day on the Bishop Pass Trail, heading back into town.</p>
 <p>&#8212;</p>
 <p>July 5th</p>
@@ -234,7 +234,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-3008
+2ffc
 ]]></content:encoded>
 			<wfw:commentRss>/j/july-5th-long-day-back-to-bishop/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -248,7 +248,7 @@
 				<category><![CDATA[Journal]]></category>
 
 		<guid isPermaLink="false">https://pct.frakkinhikers.com/?p=1210</guid>
-		<description><![CDATA[After staying the night of the 26th in Independence, CA, we hitchhiked up to Bishop (~40 miles away) and spent June 27-30 recovering from the last week of hiking. &#160; &#8212;&#8211; Start: Independence Inn, Independence, CA Stop: Bishop, CA (first night at Bishop Village Motel, next nights at EconoLodge) Miles hiked: 0 Miles hitchhiked: ~40 &#160; Because we spent June [...]]]></description>
+		<description><![CDATA[After staying the night of the 26th in Independence, CA, we hitchhiked up to Bishop (~40 miles away) and spent June 27-30 recovering from the last week of hiking. &#160; &#8212;&#8211; Start: Independence Inn, Independence, CA Stop: Bishop, CA (first night at Bishop Village Motel, next nights at EconoLodge) Miles hiked: 0 Miles hitchhiked: ~40 &#160; Because we spent June]]></description>
 				<content:encoded><![CDATA[<p>After staying the night of the 26th in Independence, CA, we hitchhiked up to Bishop (~40 miles away) and spent June 27-30 recovering from the last week of hiking.</p>
 <p>&nbsp;</p>
 <p>&#8212;&#8211;</p>
@@ -289,7 +289,7 @@
 				<category><![CDATA[Journal]]></category>
 
 		<guid isPermaLink="false">https://pct.frakkinhikers.com/?p=1211</guid>
-		<description><![CDATA[We finished the climb up Forester Pass in the morning and then descended alongside an alpine lake-fed creek. At the end of the descent, we climbed up toward Kearsage Pass and the Kearsage Pass Trail, our route out of the mountains and into town for another resupply. &#8230;.. Start: Below Forester Pass Stop: The Independence Inn in Independence, CA Miles [...]]]></description>
+		<description><![CDATA[We finished the climb up Forester Pass in the morning and then descended alongside an alpine lake-fed creek. At the end of the descent, we climbed up toward Kearsage Pass and the Kearsage Pass Trail, our route out of the mountains and into town for another resupply. &#8230;.. Start: Below Forester Pass Stop: The Independence Inn in Independence, CA Miles]]></description>
 				<content:encoded><![CDATA[<p>We finished the climb up Forester Pass in the morning and then descended alongside an alpine lake-fed creek. At the end of the descent, we climbed up toward Kearsage Pass and the Kearsage Pass Trail, our route out of the mountains and into town for another resupply.</p>
 <p>&#8230;..</p>
 <p>Start: Below Forester Pass<br />
@@ -318,7 +318,7 @@ Miles hiked: 17 (7.5 of them on the Kearsage Pass Trail)</p>
 <p>We stayed up fairly late drinking and watching TV. By midnight we were asleep.</p>
 <p>(This post written on July 1st after returning to the PCT over Kearsarge Pass).</p>
 
-2b76
+2b6a
 ]]></content:encoded>
 			<wfw:commentRss>/j/june-26-forrester-pass-to-kearsage-pass/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -332,7 +332,7 @@ Miles hiked: 17 (7.5 of them on the Kearsage Pass Trail)</p>
 				<category><![CDATA[Journal]]></category>
 
 		<guid isPermaLink="false">https://pct.frakkinhikers.com/?p=1203</guid>
-		<description><![CDATA[We hitchhiked back to the Onion Valley Trailhead from Bishop. We climbed over Kearsarge Pass (again), then continued onward over Glen Pass to the base of Pinchot Pass. We reached trail mile #800. &#8212;&#8211; July 1st end location:  On the Kearsarge Pass trail (not the Bullfrog Lake Trail), overlooking Bullfrog Lake July 2nd end location: at the southern base of [...]]]></description>
+		<description><![CDATA[We hitchhiked back to the Onion Valley Trailhead from Bishop. We climbed over Kearsarge Pass (again), then continued onward over Glen Pass to the base of Pinchot Pass. We reached trail mile #800. &#8212;&#8211; July 1st end location:  On the Kearsarge Pass trail (not the Bullfrog Lake Trail), overlooking Bullfrog Lake July 2nd end location: at the southern base of]]></description>
 				<content:encoded><![CDATA[<p>We hitchhiked back to the Onion Valley Trailhead from Bishop. We climbed over Kearsarge Pass (again), then continued onward over Glen Pass to the base of Pinchot Pass. We reached trail mile #800.</p>
 <p>&#8212;&#8211;</p>
 <p>July 1st end location:  On the Kearsarge Pass trail (not the Bullfrog Lake Trail), overlooking Bullfrog Lake</p>
@@ -369,7 +369,7 @@ Miles hiked: 17 (7.5 of them on the Kearsage Pass Trail)</p>
 				<category><![CDATA[Journal]]></category>
 
 		<guid isPermaLink="false">https://pct.frakkinhikers.com/?p=1200</guid>
-		<description><![CDATA[July 4th: We continued our intentional pattern of moving at a glacial pace through the Sierras. We woke at 7am, then spent 4 hours repairing punctures in our sleeping/air pads. We climbed over Mather Pass at 12000ft, then descended a path with many waterfalls to 9000ft. &#8212;&#8212; July 4th Start location: Lake Marjorie, mile 808.9, near 36.94509, -118.42865 (coordinates to [...]]]></description>
+		<description><![CDATA[July 4th: We continued our intentional pattern of moving at a glacial pace through the Sierras. We woke at 7am, then spent 4 hours repairing punctures in our sleeping/air pads. We climbed over Mather Pass at 12000ft, then descended a path with many waterfalls to 9000ft. &#8212;&#8212; July 4th Start location: Lake Marjorie, mile 808.9, near 36.94509, -118.42865 (coordinates to]]></description>
 				<content:encoded><![CDATA[<p>July 4th: We continued our intentional pattern of moving at a glacial pace through the Sierras. We woke at 7am, then spent 4 hours repairing punctures in our sleeping/air pads. We climbed over Mather Pass at 12000ft, then descended a path with many waterfalls to 9000ft.</p>
 <p>&#8212;&#8212;</p>
 <p>July 4th</p>
@@ -395,7 +395,7 @@ Miles hiked: 17 (7.5 of them on the Kearsage Pass Trail)</p>
 <p>Around 8pm some through hikers joined or tent site. The three of them are a bit cliquish; they don&#8217;t talk when we try to initiate conversation. Maybe it&#8217;s because their day (today) was as long as our last two days: they came from before Pinchot Pass to get here. #notforus</p>
 <p>Goodnight.</p>
 
-ed5
+ecf
 ]]></content:encoded>
 			<wfw:commentRss>/j/july-4th-lake-marjorie-to-823-0/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -409,7 +409,7 @@ ed5
 				<category><![CDATA[Journal]]></category>
 
 		<guid isPermaLink="false">https://pct.frakkinhikers.com/?p=1198</guid>
-		<description><![CDATA[July 3rd: We woke from a terrible night&#8217;s sleep  at mile 800. We hiked a very short day to Lake Marjorie at mile 808.64. We climbed over Pinchot Pass (12000ft) in doing so. &#8212;&#8211; July 3rd: Start location: stealth site about 50m north of the wooden suspension bridge around mile 800 End location: Lake Marjorie, mile 808.64 We slept terribly [...]]]></description>
+		<description><![CDATA[July 3rd: We woke from a terrible night&#8217;s sleep  at mile 800. We hiked a very short day to Lake Marjorie at mile 808.64. We climbed over Pinchot Pass (12000ft) in doing so. &#8212;&#8211; July 3rd: Start location: stealth site about 50m north of the wooden suspension bridge around mile 800 End location: Lake Marjorie, mile 808.64 We slept terribly]]></description>
 				<content:encoded><![CDATA[<p>July 3rd: We woke from a terrible night&#8217;s sleep  at mile 800. We hiked a very short day to Lake Marjorie at mile 808.64. We climbed over Pinchot Pass (12000ft) in doing so.</p>
 <p>&#8212;&#8211;</p>
 <p>July 3rd:<br />
